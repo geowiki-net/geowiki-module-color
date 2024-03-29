@@ -1,0 +1,20 @@
+{
+  "name": "geowiki-module-color",
+  "version": "1.0.0",
+  "description": "Support for color functions",
+  "main": "src/color.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geowiki-net/geowiki-module-color.git"
+  },
+  "author": "Stephan Bösch-Plepelits <skunk@xover.mud.at>",
+  "bugs": {
+    "url": "https://github.com/geowiki-net/geowiki-module-color/issues"
+  },
+  "homepage": "https://github.com/geowiki-net/geowiki-module-color#readme",
+  "dependencies": {
+    "twig": "^1.17.1"
+  },
+  "license": "AGPL-3.0-or-later"
+}
